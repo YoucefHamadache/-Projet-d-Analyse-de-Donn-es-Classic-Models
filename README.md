@@ -1,7 +1,7 @@
 # 📊 Projet d’Analyse de Données – Classic Models
 
 ## 👤 Auteur  
-Youcef Nacer  
+Youcef
 
 ---
 
